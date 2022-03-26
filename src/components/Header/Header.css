@@ -1,0 +1,15 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7%;
+    margin-bottom: 2rem;
+}
+.header a{
+    text-decoration: none;
+    margin: 0 1rem;
+    text-transform: capitalize;
+    color: #fff;
+}
